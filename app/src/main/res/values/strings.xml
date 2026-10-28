@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Article</string>
+    <string name="jetpack_compose">Jetpack Compose</string>
+    <string name="pr">TextView</string>
+    <string name="prt">Jetpack Compose is a modern toolkit for building native Android user interfaces. It helps developers create beautiful and interactive application screens using Kotlin. Text is used to display words and sentences on the screen. Image is used to display pictures. Row arranges elements horizontally, while Column arranges elements vertically. Jetpack Compose allows developers to build user interfaces with less code. It uses reusable components to make applications easier to develop and maintain. Developers can customize text size, colors, spacing, images, and layouts. These options help create attractive screens that work well on devices and screen sizes.</string>
+</resources>
